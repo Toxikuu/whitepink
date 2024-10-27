@@ -1,0 +1,61 @@
+[font]
+normal = { family = "Iosevka Nerd Font" }
+size = 10
+
+[colors.primary]
+background = "#ffffff"
+foreground = "#d73586"
+dim_foreground = "#cb6199"
+bright_foreground = "#ff66b7"
+
+[colors.cursor]
+text = "#ffffff"
+cursor = "#000000"
+
+[colors.search.matches]
+foreground = "#373737"
+background = "#ffffff"
+
+[colors.search.focused_match]
+foreground = "#ffffff"
+background = "#d73586"
+
+[colors.footer_bar]
+foreground = "#000000"
+background = "#ffffff"
+
+# [colors.hints.start]
+# foreground = "#0f0f0f"
+# background = "#d8d38c"
+#
+# [colors.hints.end]
+# foreground = "#0f0f0f"
+# background = "#f9f9f9"
+
+[colors.selection]
+text = "#ffffff"
+background = "#d73586"
+
+[colors.normal]
+black = "#000000"
+red = "#ff3b82"
+green = "#000000"
+yellow = "#d6ac2d"
+blue = "#9643ff"
+magenta = "#d73586"
+cyan = "#438dff"
+white = "#ffffff"
+
+# [colors.bright]
+# inherit = true
+#
+# [colors.dim]
+# inherit = true
+
+[[colors.indexed_colors]]
+index = 16
+color = "#d73586"
+
+[[colors.indexed_colors]]
+index = 17
+color = "#ffffff"

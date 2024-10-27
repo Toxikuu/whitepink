@@ -1,0 +1,22 @@
+/* shield */
+#tracking-protection-icon,
+#shield-icon,
+#identity-box {
+  display: none !important;
+}
+
+/* others */
+#identity-box,
+#urlbar-icons,
+.urlbar-icon {
+  display: none !important;
+}
+
+#urlbar-input {
+  text-align: center !important;
+}
+
+:root{
+--focus-outline-color: transparent !important;
+--chrome-content-separator-color: transparent !important;
+}

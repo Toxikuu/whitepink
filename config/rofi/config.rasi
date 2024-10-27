@@ -1,0 +1,26 @@
+configuration {
+    // General settings
+    modi: "drun,run";
+    show-icons: true;
+    lines: 10;
+    columns: 1;
+    font: "Iosevka Nerd Font 12";
+
+    // Window settings
+    location: 0;
+    width: 50; 
+    padding: 5;
+    yoffset: 0;
+    xoffset: 0;
+    fixed-num-lines: true;
+
+    // Matching and sorting
+    case-sensitive: false;
+    sort: true;
+
+    // Element settings
+    element-padding: 2px;
+    scrollbar: true;
+}
+
+@theme "~/.config/rofi/whitepink.rasi"
