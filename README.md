@@ -1,0 +1,2 @@
+# whitepink
+LFS Dotfiles
